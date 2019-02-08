@@ -9,8 +9,8 @@ So, I create for you quick demo app(it is not as good as for commerce practice).
 
 1. hardcoded text & colors in XML
 2. not consistent id-naming
-3. none-dimensional code \*, for example like this -  android:textSize="16sp"</br>
-\* - I mean use dimens.xml, for instance - android:textSize="@dimen/default_input_text_size"
+3. none-dimensional code \*, for example like this -  `android:textSize="16sp"`</br>
+\* - I mean use `dimens.xml`, for instance - `android:textSize="@dimen/default_input_text_size"`
 
 I will recommend you read a great book:
 
