@@ -3,7 +3,7 @@ Help for [**Itay Braha**](https://stackoverflow.com/questions/54562094/best-prac
 
 
 
-So, I create for you quick **demo** app(it is not as good as for commerce practice). How it looks and works from inside you may see here in GitHub repo.
+So, I create for you quick **demo** app(_it is not as good as for commerce practice_). How it looks and works from inside you may see here in GitHub repo.
 
 **Things you try to avoid:**
 
